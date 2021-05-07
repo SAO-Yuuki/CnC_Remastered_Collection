@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Github\\Repos\\CnC_Remastered_Collection\\CnCTDRAMapEditor\\CnCTDRAMapEditor.csproj": {}
+  },
+  "projects": {
+    "D:\\Github\\Repos\\CnC_Remastered_Collection\\CnCTDRAMapEditor\\CnCTDRAMapEditor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\Repos\\CnC_Remastered_Collection\\CnCTDRAMapEditor\\CnCTDRAMapEditor.csproj",
+        "projectName": "CnCTDRAMapEditor",
+        "projectPath": "D:\\Github\\Repos\\CnC_Remastered_Collection\\CnCTDRAMapEditor\\CnCTDRAMapEditor.csproj",
+        "packagesPath": "C:\\Users\\Let's Think\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\Repos\\CnC_Remastered_Collection\\CnCTDRAMapEditor\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Application\\Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Let's Think\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Pfim": {
+              "target": "Package",
+              "version": "[0.9.1, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
